@@ -7,9 +7,11 @@ public class git {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        //hellotest
     }
 
     public void test(){
         int i=0;
+        System.out.println(i);
     }
 }
